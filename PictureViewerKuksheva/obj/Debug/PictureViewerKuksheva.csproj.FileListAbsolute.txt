@@ -1,0 +1,10 @@
+C:\Users\29432974\Desktop\PictureViewerKuksheva\bin\Debug\PictureViewerKuksheva.exe.config
+C:\Users\29432974\Desktop\PictureViewerKuksheva\bin\Debug\PictureViewerKuksheva.exe
+C:\Users\29432974\Desktop\PictureViewerKuksheva\bin\Debug\PictureViewerKuksheva.pdb
+C:\Users\29432974\Desktop\PictureViewerKuksheva\obj\Debug\PictureViewerKuksheva.csproj.AssemblyReference.cache
+C:\Users\29432974\Desktop\PictureViewerKuksheva\obj\Debug\PictureViewerKuksheva.Properties.Resources.resources
+C:\Users\29432974\Desktop\PictureViewerKuksheva\obj\Debug\PictureViewerKuksheva.csproj.GenerateResource.cache
+C:\Users\29432974\Desktop\PictureViewerKuksheva\obj\Debug\PictureViewerKuksheva.csproj.CoreCompileInputs.cache
+C:\Users\29432974\Desktop\PictureViewerKuksheva\obj\Debug\PictureViewerKuksheva.exe
+C:\Users\29432974\Desktop\PictureViewerKuksheva\obj\Debug\PictureViewerKuksheva.pdb
+C:\Users\29432974\Desktop\PictureViewerKuksheva\obj\Debug\PictureViewerKuksheva.Form1.resources
